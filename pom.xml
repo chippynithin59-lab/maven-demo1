@@ -6,7 +6,7 @@
  <modelVersion>4.0.0</modelVersion>
 
  <groupId>com.example</groupId>
- <artifactId>maven-github-packages12345</artifactId>
- <version>1.0.2</version>
+ <artifactId>maven-github-packages123456</artifactId>
+ <version>1.0.3</version>
  <packaging>jar</packaging>
 </project>
